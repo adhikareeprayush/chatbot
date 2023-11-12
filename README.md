@@ -8,7 +8,6 @@ Welcome to the Chatbot Web Application repository! This project is a dynamic and
 
 - [Key Features](#key-features)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Contributing](#contributing)
 - [Technologies Used](#technologies-used)
 - [Documentation](#documentation)
@@ -31,10 +30,6 @@ Welcome to the Chatbot Web Application repository! This project is a dynamic and
 4. Customize the frontend to match your application's design.
 
 For detailed instructions, check the documentation in the "docs" folder.
-
-## Demo
-
-Check out the live demo [here](#).
 
 ## Contributing
 
