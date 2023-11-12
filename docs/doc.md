@@ -73,11 +73,8 @@ Contributions to the project are welcome! Feel free to submit issues or pull req
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](Liscence.txt) file for details.
 
 ## Contact
 
-For any inquiries or assistance, please contact Prayush at your-email@example.com.
-```
-
-Make sure to replace `your-email@example.com` with your actual email address. This comprehensive documentation covers various aspects of your project and should provide users and contributors with detailed information on how to use, contribute, and understand your Chatbot project.
+For any inquiries or assistance, please contact Prayush at adhikareeprayush@gmail.com.
