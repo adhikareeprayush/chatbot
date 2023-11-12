@@ -19,8 +19,7 @@ The Chatbot Project allows users to engage in conversations with a chatbot. The 
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Project Structure
 
@@ -70,10 +69,6 @@ $db= 'php_projects';
 ## Contributing
 
 Contributions to the project are welcome! Feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../Liscence.txt) file for details.
 
 ## Contact
 
