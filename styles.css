@@ -1,0 +1,72 @@
+@import url('https://fonts.cdnfonts.com/css/tempora-lgc-uni');
+
+
+body{
+    background-color: #DDF2FD;
+    font-family: 'Tempora LGC Uni', sans-serif;
+                                                
+}
+
+.container h1{
+    width:100%;
+    font-size: 20px;
+    font-weight:900;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color:#427D9D;
+    text-transform: uppercase;
+    padding:10px;
+    text-align: center;
+    color:#fff;
+
+}
+
+.media{
+    margin-top:60px;
+    display: flex;
+    gap: 20px;
+}
+
+.media img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid #427D9D;
+}
+
+
+#chatContainer{
+    background-color:#9BBEC8;
+    border-radius:10px;
+
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.chat{
+    background-color:#164863;
+    border-radius:10px;
+    color:white;
+}
+
+#textBox{
+    border-top-left-radius: 0px;
+
+}
+
+#sendBtn{
+    background-color:#164863;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.custom-alert{
+    position:fixed;
+    top:80px;
+    right:25px;
+    z-index:999;
+}
+
+
